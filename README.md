@@ -2,8 +2,6 @@
 
 오버워치 영웅 썸네일 페이지를 제작합니다. with html, css
 
-[DEMO](https://practical-bartik-a2000a.netlify.app/)
-
 ## 페이지 특징
 
 - hero 영역 위에 마우스를 hover 시 영역이 확대되고 배경색이 바뀝니다.
